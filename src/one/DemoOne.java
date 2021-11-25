@@ -7,6 +7,8 @@ public class DemoOne {
 		System.out.println("DemoOne");
 		
 		System.out.println("Randon Change...");
+		
+		System.out.println("Pull Example");
 	}
 
 	public static void add(int a, int b) {
